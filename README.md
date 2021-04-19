@@ -6,7 +6,7 @@
 I have worked for:
 * <a href="https://github.com/hitokoto-osc">Hitokoto-osc</a>
 * <a href="https://github.com/Sites-Groupsc">Sites-Group</a> 
-* it's a React - blog, made with ❤️, which you can visit at <https://adaxh.site>.
+* It's a React - blog, made with ❤️, which you can visit at <https://adaxh.site>.
 
 I have a sites platform: <https://sites.link>
 
