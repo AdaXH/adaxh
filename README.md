@@ -3,7 +3,10 @@
 **I'm Ada, nickname is “立华”.**   
 `Ada` is my commonly used id.😄
 
-I have worked for Hitokoto-osc, and it's a React - blog, made with ❤️, which you can visit at <https://adaxh.site>.
+I have worked for:
+* <a href="https://github.com/hitokoto-osc">Hitokoto-osc</a>
+* <a href="https://github.com/Sites-Groupsc">Sites-Group</a> 
+* it's a React - blog, made with ❤️, which you can visit at <https://adaxh.site>.
 
 I have a sites platform: <https://sites.link>
 
