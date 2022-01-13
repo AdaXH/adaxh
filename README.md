@@ -7,7 +7,7 @@ I have worked for:
 * <a href="https://github.com/hitokoto-osc">Hitokoto-osc</a>
 * <a href="https://github.com/Sites-Groups">Sites-Group</a> 
 * It's a React - blog, made with ❤️, which you can visit at <https://adaxh.site>.
-* I have a sites platform: <http://sites.applinzi.com>
+* I have a sites platform: <https://sites.link>
 
 You can contact me by these way below:
 *  QQ: 3532371088
