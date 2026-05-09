@@ -14,6 +14,7 @@ You can contact me by these way below:
 *  WeChat: KFC_v_me_wu10
 
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=adaxh&hide=contribs,prs)
+
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adaxh)](https://github.com/adaxh/github-readme-stats)
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=adaxh)](https://github.com/adaxh/github-readme-stats-fast)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=adaxh&hide=contribs,prs)
